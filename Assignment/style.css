@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(image2.jpg);
+}
+form{
+	box-shadow: 2px 6px 100px #0b67f1;
+
+}
+nav{
+	background-color: #0b67f1;
+}
+footer{
+	background-color:  #0b67f1;
+}
